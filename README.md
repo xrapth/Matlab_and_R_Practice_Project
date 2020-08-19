@@ -1,0 +1,1 @@
+A series of data science exercises with R and Matlab, based on my postgraduate course material.
